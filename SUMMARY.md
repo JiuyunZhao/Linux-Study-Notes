@@ -3,7 +3,7 @@
 ## Linux笔记
 
 * [前言](README.md)
-* [Linux基础知识](basic-knowledge.md)
+* [Linux基础知识](basic-knowledge/README.md)
   * [Linux与Windows](basic-knowledge/linux-and-windows.md)
   * [远程连接工具FinalShell](basic-knowledge/remote-connection-tool-finalshell.md)
   * [系统目录结构](basic-knowledge/system-directory-structure.md)
@@ -19,7 +19,7 @@
   * [权限管理](basic-knowledge/rights-management.md)
   * [进程管理](basic-knowledge/process-management.md)
   * [其他系统操作](basic-knowledge/other-system-operations.md)
-* [Shell编程](shell-programming.md)
+* [Shell编程](shell-programming/README.md)
   * [hello world和Shell基础](shell-programming/hello-world.md)
   * [变量](shell-programming/variable.md)
   * [正则表达式](shell-programming/regular-expression.md)
