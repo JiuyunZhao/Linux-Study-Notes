@@ -2,7 +2,7 @@
 
 ## Linux笔记
 
-* [概述](README.md)
+* [前言](README.md)
 * [Linux基础知识](basic-knowledge.md)
   * [Linux与Windows](basic-knowledge/linux-and-windows.md)
   * [远程连接工具FinalShell](basic-knowledge/remote-connection-tool-finalshell.md)
